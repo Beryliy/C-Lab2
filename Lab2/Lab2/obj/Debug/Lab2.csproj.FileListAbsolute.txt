@@ -1,0 +1,6 @@
+c:\users\flogiston\documents\visual studio 2013\Projects\Lab2\Lab2\bin\Debug\Lab2.exe.config
+c:\users\flogiston\documents\visual studio 2013\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+c:\users\flogiston\documents\visual studio 2013\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+c:\users\flogiston\documents\visual studio 2013\Projects\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+c:\users\flogiston\documents\visual studio 2013\Projects\Lab2\Lab2\obj\Debug\Lab2.exe
+c:\users\flogiston\documents\visual studio 2013\Projects\Lab2\Lab2\obj\Debug\Lab2.pdb
